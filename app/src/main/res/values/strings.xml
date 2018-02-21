@@ -1,0 +1,70 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">QuizApp2</string>
+    <string name="app_title">Movies Quiz</string>
+    <!-- 1st question -->
+    <string name="question1">1. In which movie played Humphrey Bogart and Ingrid Bergman together?</string>
+    <!-- Answer options to the 1st question -->
+    <string name="question1_answer1">The African Queen</string>
+    <string name="question1_answer2">Casablanca</string>
+    <string name="question1_answer3">Samuel Spade</string>
+
+    <!-- 2nd question -->
+    <string name="question2">2. Who had the lead role as the godfather in Coppola’s movie in 1972?</string>
+    <!-- Answer options to the 2nd question -->
+    <string name="question2_answer1">Robert De Niro</string>
+    <string name="question2_answer2">Al Pacino</string>
+    <string name="question2_answer3">Marlon Brando</string>
+
+    <!-- 3d question -->
+    <string name="question3">3. Name movie in which Antonio Banderas starred as Don Diego de la Vega</string>
+
+    <!-- 4th question -->
+    <string name="question4">4. Tick Star Wars movie series where Harrison Ford played Han Solo:</string>
+    <!-- Answer options to the 4th question -->
+    <string name="question4_answer1">Star Wars: Episode V - The Empire Strikes Back</string>
+    <string name="question4_answer2">Star Wars: Episode VI - Return of the Jedi</string>
+    <string name="question4_answer3">Star Wars: Episode VII - The Force Awakens</string>
+    <string name="question4_answer4">Rogue One</string>
+
+    <!-- 5th question -->
+    <string name="question5">5. In how many Matrix’s movies Keanu Revees starred as Neo?</string>
+
+    <!-- 6th question -->
+    <string name="question6">6. Tick films in which Ridley Scott and Russell Crowe have worked together:</string>
+    <!-- Answer options to the 6th question -->
+    <string name="question6_answer1">Gladiator</string>
+    <string name="question6_answer2">Robin Hood</string>
+    <string name="question6_answer3">American Gangster</string>
+    <string name="question6_answer4">Body of Lies</string>
+
+    <!-- 7th question -->
+    <string name="question7">7. In which movie Brad Pitt starred alongside Edward Norton and Jared Leto?</string>
+    <!-- Answer options to the 7th question -->
+    <string name="question7_answer1">Seven</string>
+    <string name="question7_answer2">Fight Club</string>
+    <string name="question7_answer3">Spy Game</string>
+
+    <!-- Submit button to submit answers and get scores -->
+    <string name="submit">Show results</string>
+    <!-- Reset button to delete all answers and restart the test -->
+    <string name="reset">Reset</string>
+    <!-- Help button to fire up second activity -->
+    <string name="help">HELP</string>
+    <!-- Back button to fire up second activity -->
+    <string name="back">BACK</string>
+
+    <!-- Toast messages -->
+    <string name="result_message">You did great! All your answers were correct!</string>
+    <string name="score_message">You got "<xliff:g example="2" id="score">%d</xliff:g> correct out of 7. Try again!</string>
+
+    <!-- Answers -->
+    <string name="question1_answer">Question 1 - Correct answer is #2: Casablanca</string>
+    <string name="question2_answer">Question 2 - Correct answer is #3: Marlon Brando</string>
+    <string name="question3_answer">Question 3 - Correct answer is: Zorro</string>
+    <string name="question4_answer">Question 4 - Correct answers are: #1, #2 and #3</string>
+    <string name="question5_answer">Question 5 - Correct answer is: 3</string>
+    <string name="question6_answer">Question 6 - Correct answers are: #1, #2, #3, #4</string>
+    <string name="question7_answer">Question 7 - Correct answer is #2: Fight Club</string>
+
+
+</resources>

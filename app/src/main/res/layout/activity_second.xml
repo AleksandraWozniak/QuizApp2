@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ola.quizapp2.SecondActivity">
+
+    <LinearLayout
+        android:id="@+id/quiz_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin">
+
+        <TextView
+            android:id="@+id/help"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/help"
+            android:textColor="@color/primaryText"
+            android:textSize="@dimen/size_14sp" />
+
+        <TextView
+            style="@style/AnswersStyle"
+            android:text="@string/question1_answer" />
+
+        <TextView
+            style="@style/AnswersStyle"
+            android:text="@string/question2_answer"/>
+
+        <TextView
+            style="@style/AnswersStyle"
+            android:text="@string/question3_answer"/>
+
+        <TextView
+            style="@style/AnswersStyle"
+            android:text="@string/question4_answer" />
+
+        <TextView
+            style="@style/AnswersStyle"
+            android:text="@string/question5_answer" />
+
+        <TextView
+            style="@style/AnswersStyle"
+            android:text="@string/question6_answer" />
+
+        <TextView
+            style="@style/AnswersStyle"
+            android:text="@string/question7_answer" />
+
+        <Button
+            android:id="@+id/back_button"
+            style="@style/ButtonStyle"
+            android:layout_marginTop="16dp"
+            android:padding="@dimen/padding_10dp"
+            android:text="@string/back" />
+
+    </LinearLayout>
+</ScrollView>
