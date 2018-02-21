@@ -6,6 +6,6 @@ The requirements were to create a quiz layout with at least four different Views
 
 I also added answers in "help".
 
-![alt text](https://raw.githubusercontent.com/AleksandraWozniak/QuizApp/master/Screenshot_2018-02-21-23-36-42.png)
+![alt text](https://raw.githubusercontent.com/AleksandraWozniak/QuizApp2/master/Screenshot_2018-02-21-23-36-42.png)
 
 <a href="https://www.youtube.com/watch?v=K3oxOhSgoVA&feature=youtu.be">Working demo of an app here</a>
